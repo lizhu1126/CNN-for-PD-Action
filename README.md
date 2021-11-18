@@ -7,7 +7,7 @@ Subsequently, the feature data based on the motion law of the hands is extracted
 
 Following the data pre-processing such as normalization and cropping alignment, the data are input into the full convolution network(FCN).
 
-![flow](C:\Users\lukang\Desktop\SourceCode\flow.PNG)
+[CNN-for-PD-Action/flow.PNG at master · lizhu1126/CNN-for-PD-Action (github.com)](https://github.com/lizhu1126/CNN-for-PD-Action/blob/master/flow.PNG)
 
 ## Data 
 
