@@ -1,0 +1,10 @@
+python3.6
+tensorflow-1.7.0
+sklearn
+matplotlib
+keras
+pandas
+numpy
+mediapipe
+cv2
+
